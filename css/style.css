@@ -129,6 +129,22 @@ main{
     border-radius: 15px;
 }
 
+#sonhando{
+    background-image: url(../images/sonhandoAcordado/sonhocasalG.jpg);
+    background-size: 230%;
+    background-position: right center;
+}
+#milagre{
+    background-image: url(../images/aEsperaDeUmMilagre/A-espera-de-um-milagreG.jpg);
+    background-size: 114%;
+    background-position: bottom right ;
+}
+#parabens{
+    background-image: url(../images/meusParabens/meusParabensM.jpg);
+    background-size: 230%;
+    background-position: center bottom ;
+}
+
 img{
     border-radius: 15px;
 }
