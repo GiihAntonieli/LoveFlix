@@ -66,7 +66,39 @@ main{
     color: white;
 }
 
+#propaganda{
+    background-image: url(../images/meusParabens/parabensG.jpg);
+    background-size: 100%;
+    background-position: bottom center;
+    margin: auto;
+    width: 80%;
+    height: 420px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
 
+#propaganda > h1{
+    font-family: "Oswald", sans-serif;
+    font-size: 3.8em;
+    margin: 10px 30px;
+    
+}
+
+#propaganda > button{
+    margin: 10px 50px;
+    padding: 10px 35px ;
+    font-family: "Oswald", sans-serif;
+    font-size: 1em;
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+}
+#propaganda > button:hover{
+    color: white;
+    background-color: black;
+}
 
 .titulo{
     font-family: "Oswald";
@@ -140,9 +172,7 @@ main{
     background-position: bottom right ;
 }
 #parabens{
-    background-image: url(../images/meusParabens/meusParabensM.jpg);
-    background-size: 230%;
-    background-position: center bottom ;
+    background-image: url(../images/meusParabens/meubirthday280x420.jpg);
 }
 
 img{
@@ -247,6 +277,41 @@ TV: acima de 1200px
         padding: 20px;
     
     }
+
+    #propaganda{
+        background-image: url(../images/meusParabens/parabensG.jpg);
+        background-size: 100%;
+        background-position: bottom center;
+        margin: auto;
+        width: 80%;
+        height: 210px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    
+    #propaganda > h1{
+        font-family: "Oswald", sans-serif;
+        font-size: 2em;
+        margin: 5px 10px;
+        
+    }
+    
+    #propaganda > button{
+        margin: 10px 50px;
+        padding: 10px ;
+        font-family: "Oswald", sans-serif;
+        font-size: 1em;
+        color: black;
+        background-color: white;
+        border-radius: 10px;
+    }
+    #propaganda > button:hover{
+        color: white;
+        background-color: black;
+    }
+
     .filme{
         margin-left: 5px;
         width: 220px;
