@@ -86,7 +86,7 @@ main{
     
 }
 
-#propaganda > button{
+#propaganda > a > button{
     margin: 10px 50px;
     padding: 10px 35px ;
     font-family: "Oswald", sans-serif;
@@ -95,7 +95,7 @@ main{
     background-color: white;
     border-radius: 10px;
 }
-#propaganda > button:hover{
+#propaganda > a > button:hover{
     color: white;
     background-color: black;
 }
@@ -356,6 +356,10 @@ TV: acima de 1200px
     
     #cartaz{
         display: none;
+    }
+
+    .slider-item{
+        border-radius: 10px;
     }
 
 
