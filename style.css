@@ -190,15 +190,15 @@ img{
     font-size: 2em;
     color: black;
     text-align: center;
-    margin: 50px;
+    padding: 50px;
 }
 .milagreT{
     text-decoration: none;
     font-family: "Oswald";
     font-size: 2em;
-    color: white;
+    color: black;
     text-align: center;
-    margin: 50px;
+    padding: 70px;
 }
 .parabensT{
     text-decoration: none;
@@ -206,7 +206,7 @@ img{
     font-size: 2em;
     color: white;
     text-align: center;
-    margin: 50px;
+    padding: 30px;
 }
 
 .slider{
@@ -308,6 +308,31 @@ TV: acima de 1200px
         margin: 20px;
         padding: 20px;
     
+    }
+
+    .sonhandoT{
+        text-decoration: none;
+        font-family: "Oswald";
+        font-size: 1em;
+        color: black;
+        text-align: center;
+        margin: 50px;
+    }
+    .milagreT{
+        text-decoration: none;
+        font-family: "Oswald";
+        font-size: 1em;
+        color: white;
+        text-align: center;
+        margin: 50px;
+    }
+    .parabensT{
+        text-decoration: none;
+        font-family: "Oswald";
+        font-size: 1em;
+        color: white;
+        text-align: center;
+        margin: 50px;
     }
 
     #propaganda{
