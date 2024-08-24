@@ -310,29 +310,29 @@ TV: acima de 1200px
     
     }
 
+    
+
     .sonhandoT{
         text-decoration: none;
         font-family: "Oswald";
         font-size: 1em;
         color: black;
         text-align: center;
-        margin: 50px;
     }
     .milagreT{
         text-decoration: none;
         font-family: "Oswald";
-        font-size: 1em;
+        font-size: 0.8em;
         color: white;
         text-align: center;
-        margin: 50px;
     }
     .parabensT{
+        margin-top: 50px;
         text-decoration: none;
         font-family: "Oswald";
         font-size: 1em;
         color: white;
         text-align: center;
-        margin: 50px;
     }
 
     #propaganda{
