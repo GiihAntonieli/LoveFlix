@@ -317,34 +317,6 @@ TV: acima de 1200px
         width: 220px;
         height: 144px;
     }
-
-    #onepiece{
-        background-image: url(images/onePiece/onePiece280x158.jpg);
-    }
-    #umbrella{
-        background-image: url(images/the-umbrella-academy/the-umbrella-academy280x157.jpg);
-    }
-    #rainha{
-        background-image: url(images/rainhadasLagrimas/rainhadasLagrimas280x158.jpg);
-    }
-    #primeiravez{
-        background-image: url(images/comoSeFosseAPrimeiraVez/comoSeFosseAPrimeiraVez280x158.jpg);
-    }
-    #continencia{
-        background-image: url(images/continencia-ao-amor/continencia-ao-amor280x158.jpg);
-    }
-    #prasempre{
-        background-image: url(images/paraSempre/paraSempre280x158.jpg);
-    }
-    #wonka{
-        background-image: url(images/wonka/wonka280x158.jpg);
-    }
-    #kingkong{
-        background-image: url(images/kingKong/kingKong280x158.jpg);
-    }
-    #mente{
-        background-image: url(images/divertidaMente2/divertidaMente2_280x158.jpg);
-    }
     
     .filmealternativo{
         margin: 10px;
