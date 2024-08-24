@@ -165,18 +165,48 @@ main{
     background-image: url(images/sonhandoAcordado/sonhocasalG.jpg);
     background-size: 230%;
     background-position: right center;
+    
 }
 #milagre{
     background-image: url(images/aEsperaDeUmMilagre/A-espera-de-um-milagreG.jpg);
     background-size: 114%;
     background-position: bottom right ;
+    text-decoration: none;
+    font-family: "Oswald";
 }
 #parabens{
     background-image: url(images/meusParabens/meubirthday280x420.jpg);
+    text-decoration: none;
+    font-family: "Oswald";
 }
 
 img{
     border-radius: 15px;
+}
+
+.sonhandoT{
+    text-decoration: none;
+    font-family: "Oswald";
+    font-size: 2em;
+    color: black;
+    text-align: center;
+    margin: 50px;
+}
+.milagreT{
+    text-decoration: none;
+    font-family: "Oswald";
+    font-size: 2em;
+    color: white;
+    text-align: center;
+    margin: 50px;
+}
+.parabensT{
+    text-decoration: none;
+    font-family: "Oswald";
+    font-size: 2em;
+    color: white;
+    text-align: center;
+    margin: 50px;
 }
 
 .slider{
@@ -193,6 +223,8 @@ img{
     height: 55%;
     margin-bottom: 20px;
 }
+
+
 
 #local{
     width: 100%;
