@@ -73,7 +73,7 @@ main{
 .poster{
     margin: auto;
     background-color: blanchedalmond;
-    background-image: url(../images/meusParabens/parabensG.jpg);
+    background-image: url(images/meusParabens/parabensG.jpg);
     background-size: 100%;
     background-position: bottom  center;
     height: 420px;
@@ -83,7 +83,7 @@ main{
 .posterMilagre{
     margin: auto;
     background-color: blanchedalmond;
-    background-image: url(../images/aEsperaDeUmMilagre/milagreG.jpg);
+    background-image: url(images/aEsperaDeUmMilagre/milagreG.jpg);
     background-size: 100%;
     background-position: center  center;
     height: 420px;
@@ -93,7 +93,7 @@ main{
 .posterSonhando{
     margin: auto;
     background-color: blanchedalmond;
-    background-image: url(../images/sonhandoAcordado/sonhocasalG.jpg);
+    background-image: url(images/sonhandoAcordado/sonhocasalG.jpg);
     background-size: 100%;
     background-position: center  center;
     height: 420px;
@@ -102,7 +102,7 @@ main{
 .posterWonka{
     margin: auto;
     background-color: blanchedalmond;
-    background-image: url(../images/wonka/wonka.jpg);
+    background-image: url(images/wonka/wonka.jpg);
     background-size: 100%;
     background-position: center  center;
     height: 420px;
@@ -111,7 +111,7 @@ main{
 .posterKong{
     margin: auto;
     background-color: blanchedalmond;
-    background-image: url(../images/kingKong/kingKong.jpg);
+    background-image: url(images/kingKong/kingKong.jpg);
     background-size: 100%;
     background-position: center  center;
     height: 420px;
@@ -120,7 +120,7 @@ main{
 .posterMente{
     margin: auto;
     background-color: blanchedalmond;
-    background-image: url(../images/divertidaMente2/divertidaMente2.jpg);
+    background-image: url(images/divertidaMente2/divertidaMente2.jpg);
     background-size: 100%;
     background-position: center  center;
     height: 420px;
@@ -129,7 +129,7 @@ main{
 .posterPrimeira{
     margin: auto;
     background-color: blanchedalmond;
-    background-image: url(../images/comoSeFosseAPrimeiraVez/comoSeFosseAPrimeiraVez.jpg);
+    background-image: url(images/comoSeFosseAPrimeiraVez/comoSeFosseAPrimeiraVez.jpg);
     background-size: 100%;
     background-position: center  center;
     height: 420px;
@@ -138,7 +138,7 @@ main{
 .posterContinencia{
     margin: auto;
     background-color: blanchedalmond;
-    background-image: url(../images/continencia-ao-amor/continencia-ao-amor.jpg);
+    background-image: url(images/continencia-ao-amor/continencia-ao-amor.jpg);
     background-size: 100%;
     background-position: center  center;
     height: 420px;
@@ -147,7 +147,7 @@ main{
 .posterSempre{
     margin: auto;
     background-color: blanchedalmond;
-    background-image: url(../images/paraSempre/paraSempre.jpg);
+    background-image: url(images/paraSempre/paraSempre.jpg);
     background-size: 100%;
     background-position: center  center;
     height: 420px;
@@ -156,7 +156,7 @@ main{
 .posterPiece{
     margin: auto;
     background-color: blanchedalmond;
-    background-image: url(../images/onePiece/onePiece.jpg);
+    background-image: url(images/onePiece/onePiece.jpg);
     background-size: 100%;
     background-position: center  center;
     height: 420px;
@@ -165,7 +165,7 @@ main{
 .posterUmbrella{
     margin: auto;
     background-color: blanchedalmond;
-    background-image: url(../images/the-umbrella-academy/the-umbrella-academy.jpg);
+    background-image: url(images/the-umbrella-academy/the-umbrella-academy.jpg);
     background-size: 100%;
     background-position: center  center;
     height: 420px;
@@ -174,7 +174,7 @@ main{
 .posterRainha{
     margin: auto;
     background-color: blanchedalmond;
-    background-image: url(../images/rainhadasLagrimas/rainhadasLagrimas.jpg);
+    background-image: url(images/rainhadasLagrimas/rainhadasLagrimas.jpg);
     background-size: 100%;
     background-position: center  top;
     height: 420px;
@@ -276,44 +276,44 @@ main{
 }
 
 #onepiece{
-    background-image: url(../images/onePiece/onePiece280x158.jpg);
+    background-image: url(images/onePiece/onePiece280x158.jpg);
 }
 #umbrella{
-    background-image: url(../images/the-umbrella-academy/the-umbrella-academy280x157.jpg);
+    background-image: url(images/the-umbrella-academy/the-umbrella-academy280x157.jpg);
 }
 #rainha{
-    background-image: url(../images/rainhadasLagrimas/rainhadasLagrimas280x158.jpg);
+    background-image: url(images/rainhadasLagrimas/rainhadasLagrimas280x158.jpg);
 }
 #primeiravez{
-    background-image: url(../images/comoSeFosseAPrimeiraVez/comoSeFosseAPrimeiraVez280x158.jpg);
+    background-image: url(images/comoSeFosseAPrimeiraVez/comoSeFosseAPrimeiraVez280x158.jpg);
 }
 #continencia{
-    background-image: url(../images/continencia-ao-amor/continencia-ao-amor280x158.jpg);
+    background-image: url(images/continencia-ao-amor/continencia-ao-amor280x158.jpg);
 }
 #prasempre{
-    background-image: url(../images/paraSempre/paraSempre280x158.jpg);
+    background-image: url(images/paraSempre/paraSempre280x158.jpg);
 }
 #wonka{
-    background-image: url(../images/wonka/wonka280x158.jpg);
+    background-image: url(images/wonka/wonka280x158.jpg);
 }
 #kingkong{
-    background-image: url(../images/kingKong/kingKong280x158.jpg);
+    background-image: url(images/kingKong/kingKong280x158.jpg);
 }
 #mente{
-    background-image: url(../images/divertidaMente2/divertidaMente2_280x158.jpg);
+    background-image: url(images/divertidaMente2/divertidaMente2_280x158.jpg);
 }
 #sonhando{
-    background-image: url(../images/sonhandoAcordado/sonhocasalG.jpg);
+    background-image: url(images/sonhandoAcordado/sonhocasalG.jpg);
     background-size: 230%;
     background-position: right center;
 }
 #milagre{
-    background-image: url(../images/aEsperaDeUmMilagre/A-espera-de-um-milagreG.jpg);
+    background-image: url(images/aEsperaDeUmMilagre/A-espera-de-um-milagreG.jpg);
     background-size: 114%;
     background-position: bottom right ;
 }
 #parabens{
-    background-image: url(../images/meusParabens/meusParabensM.jpg);
+    background-image: url(images/meusParabens/meusParabensM.jpg);
     background-size: 230%;
     background-position: center bottom ;
 }
@@ -395,7 +395,7 @@ TV: acima de 1200px
     .poster{
         margin: auto;
         background-color: blanchedalmond;
-        background-image: url(../images/meusParabens/parabensG.jpg);
+        background-image: url(images/meusParabens/parabensG.jpg);
         background-size: 100%;
         background-position: bottom  center;
         height: 210px;
@@ -404,7 +404,7 @@ TV: acima de 1200px
     .posterMilagre{
         margin: auto;
         background-color: blanchedalmond;
-        background-image: url(../images/aEsperaDeUmMilagre/milagreG.jpg);
+        background-image: url(images/aEsperaDeUmMilagre/milagreG.jpg);
         background-size: 100%;
         background-position: bottom  center;
         height: 210px;
@@ -413,7 +413,7 @@ TV: acima de 1200px
     .posterSonhando{
         margin: auto;
         background-color: blanchedalmond;
-        background-image: url(../images/sonhandoAcordado/sonhocasalG.jpg);
+        background-image: url(images/sonhandoAcordado/sonhocasalG.jpg);
         background-size: 100%;
         background-position: bottom  center;
         height: 210px;
@@ -422,7 +422,7 @@ TV: acima de 1200px
     .posterWonka{
         margin: auto;
         background-color: blanchedalmond;
-        background-image: url(../images/wonka/wonka.jpg);
+        background-image: url(images/wonka/wonka.jpg);
         background-size: 100%;
         background-position: bottom  center;
         height: 210px;
@@ -431,7 +431,7 @@ TV: acima de 1200px
     .posterKong{
         margin: auto;
         background-color: blanchedalmond;
-        background-image: url(../images/kingKong/kingKong.jpg);
+        background-image: url(images/kingKong/kingKong.jpg);
         background-size: 100%;
         background-position: bottom  center;
         height: 210px;
@@ -440,7 +440,7 @@ TV: acima de 1200px
     .posterMente{
         margin: auto;
         background-color: blanchedalmond;
-        background-image: url(../images/divertidaMente2/divertidaMente2.jpg);
+        background-image: url(images/divertidaMente2/divertidaMente2.jpg);
         background-size: 100%;
         background-position: bottom  center;
         height: 210px;
@@ -449,7 +449,7 @@ TV: acima de 1200px
     .posterPrimeira{
         margin: auto;
         background-color: blanchedalmond;
-        background-image: url(../images/comoSeFosseAPrimeiraVez/comoSeFosseAPrimeiraVez.jpg);
+        background-image: url(images/comoSeFosseAPrimeiraVez/comoSeFosseAPrimeiraVez.jpg);
         background-size: 100%;
         background-position: bottom  center;
         height: 210px;
@@ -458,7 +458,7 @@ TV: acima de 1200px
     .posterContinencia{
         margin: auto;
         background-color: blanchedalmond;
-        background-image: url(../images/continencia-ao-amor/continencia-ao-amor.jpg);
+        background-image: url(images/continencia-ao-amor/continencia-ao-amor.jpg);
         background-size: 100%;
         background-position: bottom  center;
         height: 210px;
@@ -467,7 +467,7 @@ TV: acima de 1200px
     .posterSempre{
         margin: auto;
         background-color: blanchedalmond;
-        background-image: url(../images/paraSempre/paraSempre.jpg);
+        background-image: url(images/paraSempre/paraSempre.jpg);
         background-size: 100%;
         background-position: bottom  center;
         height: 210px;
@@ -476,7 +476,7 @@ TV: acima de 1200px
     .posterPiece{
         margin: auto;
         background-color: blanchedalmond;
-        background-image: url(../images/onePiece/onePiece.jpg);
+        background-image: url(images/onePiece/onePiece.jpg);
         background-size: 100%;
         background-position: bottom  center;
         height: 210px;
@@ -485,7 +485,7 @@ TV: acima de 1200px
     .posterUmbrella{
         margin: auto;
         background-color: blanchedalmond;
-        background-image: url(../images/the-umbrella-academy/the-umbrella-academy.jpg);
+        background-image: url(images/the-umbrella-academy/the-umbrella-academy.jpg);
         background-size: 100%;
         background-position: bottom  center;
         height: 210px;
@@ -494,7 +494,7 @@ TV: acima de 1200px
     .posterRainha{
         margin: auto;
         background-color: blanchedalmond;
-        background-image: url(../images/rainhadasLagrimas/rainhadasLagrimas.jpg);
+        background-image: url(images/rainhadasLagrimas/rainhadasLagrimas.jpg);
         background-size: 100%;
         background-position: bottom  center;
         height: 210px;
