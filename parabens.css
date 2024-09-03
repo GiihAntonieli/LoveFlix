@@ -99,6 +99,15 @@ main{
     height: 420px;
     width: 80%;
 }
+.posterDesiste{
+    margin: auto;
+    background-color: blanchedalmond;
+    background-image: url(images/nao-desiste-de-mim/NaodesisteCartaz.jpg);
+    background-size: 100%;
+    background-position: center  center;
+    height: 273px;
+    width: 90%;
+}
 .posterWonka{
     margin: auto;
     background-color: blanchedalmond;
@@ -414,6 +423,15 @@ TV: acima de 1200px
         margin: auto;
         background-color: blanchedalmond;
         background-image: url(images/sonhandoAcordado/sonhocasalG.jpg);
+        background-size: 100%;
+        background-position: bottom  center;
+        height: 180px;
+        width: 90%;
+    }
+    .posterDesiste{
+        margin: auto;
+        background-color: blanchedalmond;
+        background-image: url(images/nao-desiste-de-mim/NaodesisteCartaz.jpg);
         background-size: 100%;
         background-position: bottom  center;
         height: 180px;

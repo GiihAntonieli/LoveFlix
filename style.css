@@ -154,7 +154,7 @@ main{
 }
 
 .filmealternativo{
-    margin: 15px;
+    margin: 10px;
     background-color: blanchedalmond;
     width: 280px;
     height: 420px;
@@ -179,6 +179,12 @@ main{
     text-decoration: none;
     font-family: "Oswald";
 }
+#desistir{
+    background-image: url(images/nao-desiste-de-mim/naodesiste280x420.jpg);
+    text-decoration: none;
+    font-family: "Oswald";
+    background-position: bottom center;
+}
 
 img{
     border-radius: 15px;
@@ -201,6 +207,14 @@ img{
     padding: 70px;
 }
 .parabensT{
+    text-decoration: none;
+    font-family: "Oswald";
+    font-size: 2em;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+.desistirT{
     text-decoration: none;
     font-family: "Oswald";
     font-size: 2em;
@@ -334,6 +348,14 @@ TV: acima de 1200px
         color: white;
         text-align: center;
     }
+    .desistirT{
+        margin-top: 50px;
+        text-decoration: none;
+        font-family: "Oswald";
+        font-size: 1em;
+        color: white;
+        text-align: center;
+    }
 
     #propaganda{
         background-image: url(images/meusParabens/parabensG.jpg);
@@ -376,7 +398,7 @@ TV: acima de 1200px
     }
     
     .filmealternativo{
-        margin: 10px;
+        margin: 5px;
         width: 167px;
         height: 250px;
     }
@@ -409,6 +431,9 @@ TV: acima de 1200px
     }
     .slider > input:nth-child(3):checked ~ .slider-content{
         transform: translateX(-200%);
+    }
+    .slider > input:nth-child(4):checked ~ .slider-content{
+        transform: translateX(-300%);
     }
     
     #cartaz{
